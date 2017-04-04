@@ -8,7 +8,6 @@ public class Young {
 		System.out.println("hello her world");
 		System.out.println("hello your world");
 		
-	
 	}
 
 
