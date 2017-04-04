@@ -9,6 +9,7 @@ public class Young {
 		a= 5;
 		System.out.println(a);
 		
+		
 	}
 
 }
